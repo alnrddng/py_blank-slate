@@ -1,9 +1,8 @@
-# <Your-Project-Title>
+# <Project-Title>
 
 ## Description
 
 ## Table of Contents (Optional)
-
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
@@ -20,7 +19,6 @@
 ## Credits
 
 ## License
-
 [MIT](LICENSE)
 
 ## Badges
